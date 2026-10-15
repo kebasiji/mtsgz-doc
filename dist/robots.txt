@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://dragonli-mtsgz.fizzy-whale-9196.chatgpt.site/sitemap.xml
